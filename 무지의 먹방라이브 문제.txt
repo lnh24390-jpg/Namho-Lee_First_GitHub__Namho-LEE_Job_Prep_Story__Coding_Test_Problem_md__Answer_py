@@ -1,3 +1,6 @@
+이문제는 카카오 출제 문제이고 프로그래머스 전용 문제입니다.
+https://school.programmers.co.kr/learn/courses/30/lessons/42891?language=python3
+
 무지의_먹방_라이브
 * 효율성 테스트에 부분 점수가 있는 문제입니다.
 
