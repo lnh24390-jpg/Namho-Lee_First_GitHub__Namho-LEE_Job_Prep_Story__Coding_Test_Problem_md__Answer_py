@@ -17,12 +17,10 @@
 
 https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661  
 https://school.programmers.co.kr/
-
----
 ---
 # 여기서 사용할 연습 플랫폼
 * 프로그래머스
----
+  https://school.programmers.co.kr/
 ---
 # 목차
 ## 1.가장 큰 정사각형 찾기
